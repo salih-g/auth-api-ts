@@ -1,0 +1,8 @@
+{
+  "name": "auth-api-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/salih-g/auth-api-ts",
+  "author": "M.Salih Gumus <gumusmuhammedsalih@gmail.com>",
+  "license": "MIT"
+}
